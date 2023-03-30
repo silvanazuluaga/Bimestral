@@ -1,0 +1,13 @@
+1. Calcular la suma de los primeros n números naturales ingresando n.
+
+# Solucion:
+
+## Variables de entrada:
+*numerica:* n;
+
+## Variables de salida:
+*numerica* suma;
+## Proceso 
+Ingresar n;
+suma = (n = n(n+1)/2);
+*imprimir*(suma);

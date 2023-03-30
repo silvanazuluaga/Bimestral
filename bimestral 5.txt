@@ -1,0 +1,14 @@
+5. Pasar una cantidad dada en atmosferas a su equivalente en Pascales.
+
+# Solucion:
+
+## Variables de entrada:
+*numerica:* atmosferas;
+
+## Variables de salida:
+*numerica:* pascales;
+
+## Proceso 
+Ingresar atmosferas;
+pascales = atmosferas(101325);
+*imprimir*(hipotenusa);

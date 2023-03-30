@@ -1,0 +1,17 @@
+
+2. Ingresados dos números calcular el modulo del primer número con el segundo número
+
+# Solucion:
+
+## Variables de entrada:
+*numerica:* termino1;
+*numerica:* termino2;
+
+## Variables de salida:
+*numerica:* modulo;
+
+## Proceso 
+Ingresar termino1;
+Ingresar termino2;
+modulo = termino1 modulo termino2
+*imprimir*(modulo);

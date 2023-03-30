@@ -1,0 +1,14 @@
+3. Ingresada una distancia en metros, calcular su equivalencia en pies.
+
+# Solucion:
+
+## Variables de entrada:
+*numerica:* metros;
+
+## Variables de salida:
+*numerica:* pies;
+
+## Proceso 
+Ingresar metros;
+pies = metros(3.28084);
+*imprimir*(pies);
